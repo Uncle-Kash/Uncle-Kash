@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uncle-Kash
 - 👀 I’m interested in Web development and Python projects.
-- 🌱 I’m currently learning Front-End Web Development
-- 💞️ I’m looking to collaborate on Design and UX
+- 🌱 I’m currently learning Databases and SQL
+- 💞️ I’m looking to collaborate on data-intensive projects.
 - 📫 You can reach me at unclekash@pm.me
 
 <!---
